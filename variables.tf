@@ -3,9 +3,9 @@ variable "aws_region" {
 }
 
 variable "budget_limit" {
-  default = "1"  # In USD
+  default = "1"  
 }
 
 variable "notification_email" {
-  default = "nidhithakore1125@gmail.com"  # Replace this
+    default = "xyz@gmail.com"  
 }
